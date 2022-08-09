@@ -1,3 +1,5 @@
+# go-nacos
+[![Go](https://github.com/wannanbigpig/go-nacos/actions/workflows/go.yml/badge.svg)](https://github.com/wannanbigpig/go-nacos/actions/workflows/go.yml)
 ### 构建 liunx 执行文件
 - mac 环境下构建liunx可执行文件
 
