@@ -105,6 +105,7 @@ func main() {
 		constant.WithNotLoadCacheAtStart(true),
 		constant.WithUsername(config.Username),
 		constant.WithPassword(config.Password),
+		constant.WithLogLevel("warn"),
 	)
 
 	// a more graceful way to create config client
